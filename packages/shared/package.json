@@ -1,0 +1,8 @@
+{
+  "name": "shared",
+  "version": "1.0.0",
+  "description": "所有公用辅助方法及类型定义(因为所有方法会被其他模块引用，不需要入口文件，所以不用Main，用Module字段)",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
